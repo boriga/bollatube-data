@@ -28,7 +28,6 @@ jobs:
         run: |
           git config --global user.name 'github-actions'
           git config --global user.email 'github-actions@github.com'
-          git add matches.json
-          git commit -m "تحديث تلقائي للمباريات" || exit 0
+          git add *.json  # هذا السطر سيضيف أي ملف JSON جديد يتم توليده
+          git commit -m "تحديث تلقائي شامل للبيانات" || exit 0
           git push
-          
