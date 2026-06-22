@@ -83,6 +83,37 @@
         },
         {
             "player": {
+                "id": 3374,
+                "name": "Kylian Mbappé",
+                "firstName": "Kylian",
+                "lastName": "Mbappé",
+                "dateOfBirth": "1998-12-20",
+                "nationality": "France",
+                "section": "Offence",
+                "position": null,
+                "shirtNumber": null,
+                "lastUpdated": "2026-06-01T11:16:30Z"
+            },
+            "team": {
+                "id": 773,
+                "name": "France",
+                "shortName": "France",
+                "tla": "FRA",
+                "crest": "https://crests.football-data.org/773.svg",
+                "address": "87 Boulevard de Grenelle Paris 75738",
+                "website": "http://www.fff.fr",
+                "founded": 1919,
+                "clubColors": "Blue / White / Red",
+                "venue": null,
+                "lastUpdated": "2026-06-01T09:42:18Z"
+            },
+            "playedMatches": 2,
+            "goals": 3,
+            "assists": null,
+            "penalties": null
+        },
+        {
+            "player": {
                 "id": 8924,
                 "name": "Jonathan David",
                 "firstName": "Jonathan",
@@ -292,37 +323,6 @@
                 "clubColors": "Blue / White",
                 "venue": null,
                 "lastUpdated": "2026-06-01T09:40:05Z"
-            },
-            "playedMatches": 2,
-            "goals": 2,
-            "assists": null,
-            "penalties": null
-        },
-        {
-            "player": {
-                "id": 145613,
-                "name": "Yasin Ayari",
-                "firstName": "Yasin",
-                "lastName": "Ayari",
-                "dateOfBirth": "2003-10-06",
-                "nationality": "Sweden",
-                "section": "Midfield",
-                "position": null,
-                "shirtNumber": 26,
-                "lastUpdated": "2026-06-01T11:16:31Z"
-            },
-            "team": {
-                "id": 792,
-                "name": "Sweden",
-                "shortName": "Sweden",
-                "tla": "SWE",
-                "crest": "https://crests.football-data.org/792.svg",
-                "address": "Evenemangsgatan 31 / Box 1216 Solna 17123",
-                "website": "http://www.svenskfotboll.se",
-                "founded": 1904,
-                "clubColors": "Yellow / Blue",
-                "venue": null,
-                "lastUpdated": "2026-06-01T09:42:37Z"
             },
             "playedMatches": 2,
             "goals": 2,
