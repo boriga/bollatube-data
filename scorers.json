@@ -300,32 +300,32 @@
         },
         {
             "player": {
-                "id": 39237,
-                "name": "Julián Quiñones",
-                "firstName": "Julián",
-                "lastName": "Quiñones",
-                "dateOfBirth": "1997-03-24",
-                "nationality": "Colombia",
+                "id": 97535,
+                "name": "Brian Brobbey",
+                "firstName": "Brian",
+                "lastName": "Brobbey",
+                "dateOfBirth": "2002-02-01",
+                "nationality": "Netherlands",
                 "section": "Offence",
                 "position": null,
-                "shirtNumber": 33,
-                "lastUpdated": "2024-06-06T15:58:17Z"
+                "shirtNumber": 17,
+                "lastUpdated": "2026-06-01T11:16:31Z"
             },
             "team": {
-                "id": 769,
-                "name": "Mexico",
-                "shortName": "Mexico",
-                "tla": "MEX",
-                "crest": "https://crests.football-data.org/769.svg",
-                "address": "Colima #373, Colonia Roma Norte, Del. Cuauhtémoc Ciudad de México 6700",
-                "website": "http://www.femexfut.org.mx",
-                "founded": 1927,
-                "clubColors": "Green / White / Red",
+                "id": 8601,
+                "name": "Netherlands",
+                "shortName": "Netherlands",
+                "tla": "NED",
+                "crest": "https://crests.football-data.org/8601.svg",
+                "address": "Woudenbergseweg 56-58 / Postbus 515 Zeist 3700 AM",
+                "website": "http://www.knvb.nl",
+                "founded": 1889,
+                "clubColors": "Orange / White / Blue",
                 "venue": null,
-                "lastUpdated": "2026-06-01T09:41:59Z"
+                "lastUpdated": "2026-06-01T09:43:48Z"
             },
             "playedMatches": 3,
-            "goals": 2,
+            "goals": 3,
             "assists": null,
             "penalties": null
         }
