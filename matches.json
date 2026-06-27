@@ -6,7 +6,7 @@
         "count": 104,
         "first": "2026-06-11",
         "last": "2026-07-19",
-        "played": 62
+        "played": 66
     },
     "competition": {
         "id": 2000,
@@ -4117,11 +4117,11 @@
             },
             "id": 537373,
             "utcDate": "2026-06-27T00:00:00Z",
-            "status": "IN_PLAY",
+            "status": "FINISHED",
             "matchday": 3,
             "stage": "GROUP_STAGE",
             "group": "GROUP_H",
-            "lastUpdated": "2026-06-27T01:29:35Z",
+            "lastUpdated": "2026-06-27T02:07:59Z",
             "homeTeam": {
                 "id": 758,
                 "name": "Uruguay",
@@ -4183,11 +4183,11 @@
             },
             "id": 537374,
             "utcDate": "2026-06-27T00:00:00Z",
-            "status": "IN_PLAY",
+            "status": "FINISHED",
             "matchday": 3,
             "stage": "GROUP_STAGE",
             "group": "GROUP_H",
-            "lastUpdated": "2026-06-27T01:30:04Z",
+            "lastUpdated": "2026-06-27T02:09:26Z",
             "homeTeam": {
                 "id": 1930,
                 "name": "Cape Verde Islands",
@@ -4249,11 +4249,11 @@
             },
             "id": 537367,
             "utcDate": "2026-06-27T03:00:00Z",
-            "status": "TIMED",
+            "status": "FINISHED",
             "matchday": 3,
             "stage": "GROUP_STAGE",
             "group": "GROUP_G",
-            "lastUpdated": "2026-06-26T07:48:25Z",
+            "lastUpdated": "2026-06-27T05:03:41Z",
             "homeTeam": {
                 "id": 783,
                 "name": "New Zealand",
@@ -4269,15 +4269,15 @@
                 "crest": "https://crests.football-data.org/805.svg"
             },
             "score": {
-                "winner": null,
+                "winner": "AWAY_TEAM",
                 "duration": "REGULAR",
                 "fullTime": {
-                    "home": null,
-                    "away": null
+                    "home": 1,
+                    "away": 5
                 },
                 "halfTime": {
-                    "home": null,
-                    "away": null
+                    "home": 0,
+                    "away": 1
                 }
             },
             "odds": {
@@ -4315,11 +4315,11 @@
             },
             "id": 537368,
             "utcDate": "2026-06-27T03:00:00Z",
-            "status": "TIMED",
+            "status": "FINISHED",
             "matchday": 3,
             "stage": "GROUP_STAGE",
             "group": "GROUP_G",
-            "lastUpdated": "2026-06-26T07:48:25Z",
+            "lastUpdated": "2026-06-27T05:16:41Z",
             "homeTeam": {
                 "id": 825,
                 "name": "Egypt",
@@ -4335,15 +4335,15 @@
                 "crest": "https://crests.football-data.org/iran.svg"
             },
             "score": {
-                "winner": null,
+                "winner": "DRAW",
                 "duration": "REGULAR",
                 "fullTime": {
-                    "home": null,
-                    "away": null
+                    "home": 1,
+                    "away": 1
                 },
                 "halfTime": {
-                    "home": null,
-                    "away": null
+                    "home": 1,
+                    "away": 1
                 }
             },
             "odds": {
