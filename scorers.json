@@ -207,6 +207,37 @@
         },
         {
             "player": {
+                "id": 3638,
+                "name": "Ismaïla Sarr",
+                "firstName": "Ismaïla",
+                "lastName": "Sarr",
+                "dateOfBirth": "1998-02-25",
+                "nationality": "Senegal",
+                "section": "Midfield",
+                "position": null,
+                "shirtNumber": null,
+                "lastUpdated": "2026-06-06T14:12:29Z"
+            },
+            "team": {
+                "id": 804,
+                "name": "Senegal",
+                "shortName": "Senegal",
+                "tla": "SEN",
+                "crest": "https://crests.football-data.org/senegal.svg",
+                "address": "VDN-Ouest-Foire en face du CICES, Boite postale 13021 Dakar null",
+                "website": "http://www.fsfoot.sn",
+                "founded": 1960,
+                "clubColors": "White / Green",
+                "venue": null,
+                "lastUpdated": "2022-04-02T10:41:30Z"
+            },
+            "playedMatches": 4,
+            "goals": 4,
+            "assists": 1,
+            "penalties": null
+        },
+        {
+            "player": {
                 "id": 39237,
                 "name": "Julián Quiñones",
                 "firstName": "Julián",
@@ -297,37 +328,6 @@
             "goals": 3,
             "assists": null,
             "penalties": 1
-        },
-        {
-            "player": {
-                "id": 6928,
-                "name": "Deniz Undav",
-                "firstName": "Deniz",
-                "lastName": "Undav",
-                "dateOfBirth": "1996-07-19",
-                "nationality": "Germany",
-                "section": "Offence",
-                "position": null,
-                "shirtNumber": 9,
-                "lastUpdated": "2026-06-01T11:16:31Z"
-            },
-            "team": {
-                "id": 759,
-                "name": "Germany",
-                "shortName": "Germany",
-                "tla": "GER",
-                "crest": "https://crests.football-data.org/759.svg",
-                "address": "Otto-Fleck-Schneise 6 / Postfach 710265 Frankfurt am Main 60492",
-                "website": "http://www.dfb.de",
-                "founded": 1900,
-                "clubColors": "White / Black",
-                "venue": null,
-                "lastUpdated": "2026-06-01T09:41:12Z"
-            },
-            "playedMatches": 4,
-            "goals": 3,
-            "assists": 2,
-            "penalties": null
         }
     ]
 }
