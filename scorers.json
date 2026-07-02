@@ -269,6 +269,37 @@
         },
         {
             "player": {
+                "id": 131040,
+                "name": "Folarin Balogun",
+                "firstName": "Folarin",
+                "lastName": "Balogun",
+                "dateOfBirth": "2001-07-03",
+                "nationality": "USA",
+                "section": "Offence",
+                "position": null,
+                "shirtNumber": null,
+                "lastUpdated": "2026-06-01T11:16:31Z"
+            },
+            "team": {
+                "id": 771,
+                "name": "United States",
+                "shortName": "USA",
+                "tla": "USA",
+                "crest": "https://crests.football-data.org/usa.svg",
+                "address": "1801 South Prairie Ave Chicago, IL 90266",
+                "website": "http://www.ussoccer.com",
+                "founded": 1913,
+                "clubColors": "White / Navy Blue / Red",
+                "venue": null,
+                "lastUpdated": "2026-06-01T09:42:10Z"
+            },
+            "playedMatches": 4,
+            "goals": 3,
+            "assists": null,
+            "penalties": null
+        },
+        {
+            "player": {
                 "id": 130173,
                 "name": "Ismael Saibari",
                 "firstName": "Ismael",
@@ -297,37 +328,6 @@
             "goals": 3,
             "assists": null,
             "penalties": null
-        },
-        {
-            "player": {
-                "id": 171,
-                "name": "Kai Havertz",
-                "firstName": "Kai",
-                "lastName": "Havertz",
-                "dateOfBirth": "1999-06-11",
-                "nationality": "Germany",
-                "section": "Offence",
-                "position": null,
-                "shirtNumber": null,
-                "lastUpdated": "2026-06-01T11:16:31Z"
-            },
-            "team": {
-                "id": 759,
-                "name": "Germany",
-                "shortName": "Germany",
-                "tla": "GER",
-                "crest": "https://crests.football-data.org/759.svg",
-                "address": "Otto-Fleck-Schneise 6 / Postfach 710265 Frankfurt am Main 60492",
-                "website": "http://www.dfb.de",
-                "founded": 1900,
-                "clubColors": "White / Black",
-                "venue": null,
-                "lastUpdated": "2026-06-01T09:41:12Z"
-            },
-            "playedMatches": 4,
-            "goals": 3,
-            "assists": null,
-            "penalties": 1
         }
     ]
 }
